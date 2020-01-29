@@ -1,5 +1,8 @@
-<php> 
+<?php
+
+echo "Hello world, v2.";
+
+?>
     
-echo "Hello World!";    
-    
-<?php>
+
+ 
